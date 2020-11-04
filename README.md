@@ -8,7 +8,7 @@ set while jika input == 0 looping nya akan berhenti, dan set if jiga nilain inpu
 
 ![WhatsApp Image 2020-11-04 at 9 31 06 PM](https://user-images.githubusercontent.com/20396585/98125352-f7954b80-1ee6-11eb-9975-7658c6a34423.jpeg)
 
-#program 1
+# Program 1
 looping 1 sampe 9, lalu buat statment if untuk menen tukan bulan dan laba % yang didapat lalu jumlah kan semua
 
 ![WhatsApp Image 2020-11-04 at 9 33 21 PM](https://user-images.githubusercontent.com/20396585/98125522-2a3f4400-1ee7-11eb-9c3c-91b91fdaa60c.jpeg)
