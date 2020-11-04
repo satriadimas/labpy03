@@ -4,7 +4,7 @@ looping sebanyak jumlah yang di inputkan, lalu di dalam for kira masukan perinta
 
 # Latihan 2
 set while jika input == 0 looping nya akan berhenti, dan set if jiga nilain input lebih besar dari yang sebelum nya maka nilai input disimpan ke variable lalu print setelah while nya true
-![WhatsApp Image 2020-11-04 at 9 31 06 PM](https://user-images.githubusercontent.com/20396585/98125352-f7954b80-1ee6-11eb-9975-7658c6a34423.jpeg
+![WhatsApp Image 2020-11-04 at 9 31 06 PM](https://user-images.githubusercontent.com/20396585/98125352-f7954b80-1ee6-11eb-9975-7658c6a34423.jpeg)
 
 #program 1
 looping 1 sampe 9, lalu buat statment if untuk menen tukan bulan dan laba % yang didapat lalu jumlah kan semua
